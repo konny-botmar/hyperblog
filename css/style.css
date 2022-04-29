@@ -1,6 +1,21 @@
 body
 {
-    color: blueviolet;
+    color: black;
     text-align: center;
     font-family: "arial";
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 70%;
+    padding: 1rem;
+    text-align: center;
+    border: 7px solid black;
+    margin: 0 auto;
+}
+#container h1
+{
+    font-size: 26px;
 }
